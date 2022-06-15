@@ -134,12 +134,12 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url('/img/apple.png');
+    background-image: url('img/apple.png');
     border-radius: 5px;
 }
 
 .app-download:nth-child(2){
-    background-image: url('/img/google.png');
+    background-image: url('img/google.png');
     border-radius: 5px;
 }
 
